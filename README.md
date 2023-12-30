@@ -1,3 +1,2 @@
-# DIGIT-RECOGNITION
+# Basic ML projects
 
-Created a Machine Learning model using libraries Like SK-Learn to recognize handWritten Digits
